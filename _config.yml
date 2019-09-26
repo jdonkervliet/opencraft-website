@@ -1,3 +1,6 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: thelehhman/plainwhite-jekyll
+title: Opencraft
+description: Massivizing Multiplayer Modifiable Environments
 github:
   is_project_page: false
